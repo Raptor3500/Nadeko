@@ -1,1 +1,1 @@
-worker: Json
+worker: Json project.json
